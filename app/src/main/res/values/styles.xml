@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.Iconostas" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#121611</item>
+        <item name="android:navigationBarColor">#121611</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:colorAccent">#D5E866</item>
+        <item name="android:windowBackground">#121611</item>
+    </style>
+</resources>
